@@ -28,7 +28,7 @@ public class ApiController {
     @RequestMapping(method =  RequestMethod.POST,value = "/duerosApi")
     public void test() {
         System.out.println("Test***********************");
-        System.out.println("test11111111111111111111111");
+        System.out.println("test2222222222222222222222");
     }
 
 }
